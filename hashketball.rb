@@ -42,7 +42,7 @@ def game_hash
       :number => 1,
       :shoe => 19,
       :points => 26,
-      :rebounds => 12,
+      :rebounds => 11,
       :assists => 6,
       :steals => 3,
       :blocks => 8,
@@ -77,7 +77,7 @@ def game_hash
       :slam_dunks => 2
       },
       {
-      :player_name => "Bismak Biyombo", 
+      :player_name => "Bismack Biyombo", 
       :number => 0,
       :shoe => 16,
       :points => 12,
